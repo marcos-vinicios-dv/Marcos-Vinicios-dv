@@ -1,9 +1,14 @@
-<h1 align = "center">Olá! 👋</h1>
+<h1 align = "center">Olá! Me chamo Marcos Vinicios Teixeira👋</h1>
 
-<h3>Sou estudante de desenvolvimento de software no colégio técnico de Limeira Cotil e pretendo ser um programador FULLSTACK.</h3>
+<p>Faço curso técnico no Cotil(Colégio Técnico de Limeira) e busco meu primeiro emprego na área da programação.</p>
+<p>Atualmente sou desenvolvimento Front-end, porém pretendo ser um desenvolvedor Fullstack e trabalhar tanto com Front-end quanto com Back-end.</p>
+
+<div style="margin: 0 auto;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vinicios-dv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vinicios-dv&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+
+<div>
+<img align="center" alt="Javascript" src="https://icongr.am/devicon/javascript-original.svg?size=25&color=currentColor">
+</div>
   
-- 🔭 Atualmente estou desempregado em busca de um emprego.
-- 🌱 Possuo uma conhecimento mediano sobre JAVASCRIPT, JAVA e REACT.
-- 🤔 Busco aprender mais sobre REACT NATIVE E NODE.
-- 📫 Você pode me encontrar/entrar em contato em: https://www.linkedin.com/in/marcos-vinicios-dv/ ou e-mail marcosviniciosprog@gmail.com
-
