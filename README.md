@@ -1,6 +1,6 @@
-<h1>Olá! Me chamo Marcos Vinicios Teixeira👋</h1>
+<h1>Olá! Me chamo Marcos Vinicios Teixeira!👋</h1>
 
-<p>Faço curso técnico no Cotil(Colégio Técnico de Limeira) e busco meu primeiro emprego na área da programação.</p>
+<p>Faço curso técnico no Cotil (Colégio Técnico de Limeira) e busco meu primeiro emprego na área da programação.</p>
 <p>Atualmente sou desenvolvimento Front-end, porém pretendo ser um desenvolvedor Fullstack e trabalhar tanto com Front-end quanto com Back-end.</p>
 
 <div>
