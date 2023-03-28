@@ -1,6 +1,6 @@
 <h1>Olá! Me chamo Marcos Vinicios Teixeira!👋</h1>
 
-<p>Atualmente sou desenvolvimento front-end e designer, porém estou buscando aprender mais sobre o que acontece no mundo do back-end e como ele funciona para futuramente atuar como desenvolvedor full-stack.</p>
+<p>Atualmente sou desenvolvimento front-end e designer, porém estou buscando aprender mais sobre o mundo do back-end e como ele funciona para futuramente atuar como desenvolvedor full-stack.</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vinicios-dv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
