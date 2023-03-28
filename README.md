@@ -1,7 +1,6 @@
 <h1>Olá! Me chamo Marcos Vinicios Teixeira!👋</h1>
 
-<p>Faço curso técnico no Cotil (Colégio Técnico de Limeira) e busco meu primeiro emprego na área da programação.</p>
-<p>Atualmente sou desenvolvimento Front-end, porém pretendo ser um desenvolvedor Fullstack e trabalhar tanto com Front-end quanto com Back-end.</p>
+<p>Atualmente sou desenvolvimento front-end e designer, porém estou buscando aprender mais sobre o que acontece no mundo do back-end e como ele funciona para futuramente atuar como desenvolvedor full-stack.</p>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vinicios-dv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -11,10 +10,10 @@
 <br>
 
 <div>
-  <img align="center" alt="Javascript" src="https://icongr.am/devicon/javascript-original.svg?size=30&color=currentColor">
-  <img align="center" alt="Javascript" src="https://icongr.am/devicon/typescript-plain.svg?size=30&color=currentColor">
-  <img align="center" alt="Javascript" src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor">
-  
+  <img align="center" alt="React" src="https://icongr.am/devicon/react-original.svg?size=30&color=currentColor">
+  <img align="center" alt="Flutter" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Node" src="https://icongr.am/devicon/nodejs-original.svg?size=30&color=currentColor">
+  <img align="center" alt="Figma" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
   
 <br>
